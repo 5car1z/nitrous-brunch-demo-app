@@ -1,0 +1,7 @@
+{
+  "template": "nodejs", 
+  "ports": [3000],
+  "name": "Brunch Applications Template",
+  "logo": "http://i.imgur.com/aePKLBU.png",
+  "description": "An ultra-fast HTML5 build tool"
+}
