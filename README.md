@@ -1,16 +1,17 @@
-# Brunch app
+# Nitrous Brunch Demo App
 
-This is HTML5 application, built with [Brunch](http://brunch.io).
+![](http://i.imgur.com/aePKLBU.png)
 
-## Getting started
-* Install (if you don't have them):
-    * [Node.js](http://nodejs.org): `brew install node` on OS X
-    * [Brunch](http://brunch.io): `npm install -g brunch`
-    * Brunch plugins and app dependencies: `npm install`
-* Run:
-    * `brunch watch --server` — watches the project with continuous rebuild. This will also launch HTTP server with [pushState](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Manipulating_the_browser_history).
-    * `brunch build --production` — builds minified project for production
-* Learn:
-    * `public/` dir is fully auto-generated and served by HTTP server.  Write your code in `app/` dir.
-    * Place static files you want to be copied from `app/assets/` to `public/`.
-    * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
+This is a demo project that contains a very simple [Brunch](http://brunch.io) web application for use on the [Nitrous](nitrous.io) platform.
+
+## Nitrous Quickstarts 
+
+This repo is part of a [Nitrous community](https://community.nitrous.io/) guide on "Getting Started with Brunch" and demonstrates [Nitrous Quickstart](https://community.nitrous.io/docs/nitrous-quickstarts) integration for this GitHub hosted Brunch app.  
+
+* Click the button below **whilst signed in to the Nitrous platform** to create a project with the Quikcstart feature using this repo.
+
+[![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
+
+
+
+
