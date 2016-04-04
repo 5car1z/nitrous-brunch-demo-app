@@ -6,4 +6,4 @@ cd ~/code/nitrous-brunch-demo-app
 
 npm install
 
-brunch watch -s &
+brunch build
