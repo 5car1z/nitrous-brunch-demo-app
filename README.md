@@ -12,6 +12,6 @@ This repo is part of a [Nitrous community](https://community.nitrous.io/) guide 
 
 [![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
 
-The Quick Start setup process may take several minutes to complete. 
+> The Quick Start setup process may take several minutes to complete. 
 
-Then read the [nitrous.readme.md](https://github.com/5car1z/nitrous-brunch-demo-app/blob/master/nitrous.readme.md) file to get started. 
+Read the [nitrous.readme.md](https://github.com/5car1z/nitrous-brunch-demo-app/blob/master/nitrous.readme.md) file for further instructions. 
