@@ -5,7 +5,6 @@
   "logo": "http://i.imgur.com/aePKLBU.png",
   "description": "An ultra-fast HTML5 build tool",
   "scripts": {
-    "Start Brunch Server": "brunch watch -s",
-    "start": "cd ~/code/nitrous-brunch-demo-app"
+    "Start Brunch Demo App Server": "cd ~/code/nitrous-brunch-demo-app && brunch watch -s"
   }
 }
